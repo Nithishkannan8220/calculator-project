@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+  
+}
+.akshu{
+    width:500px;
+    height:500px;
+    border: 1px solid darkred;
+    text-align: center;
+    margin-top: 200px;
+    border-radius: 40px;
+ background-color: #536493; colour: #D91656;}
+::placeholder{
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    padding-top: 30px;
+    color: indigo;
+    text-shadow: 0px 0px 3px green ;
+    padding-bottom: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+   
+    width: 400px;
+    border-radius: 80px;
+    text-align: center;
+    padding: 8px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.315);
+    color: mediumseagreen;
+
+    
+}
+button{
+    
+    margin-top: 50px;
+    border-radius: 150px;
+    border: none;
+    padding: 5px;
+    background-color:rgba(0, 0, 0, 0.315);
+    color: gold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+body{
+background-color: violet;
+}
